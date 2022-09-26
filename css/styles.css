@@ -1,0 +1,43 @@
+
+body{
+
+    margin: 0;
+    padding: 0;
+
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.zona {
+
+    height: 10em;
+    width: 10em;
+
+    background-color: black;
+}
+
+.zonaB {
+    height: 10em;
+    width: 10em;
+    
+    background-color: crimson;
+}
+
+.defecto {
+    height: 10em;
+    width: 10em;
+
+    background-color: chartreuse;
+}
+
+.turquesa {
+    height: 10em;
+    width: 10em;
+
+    background-color: turquoise;
+}
